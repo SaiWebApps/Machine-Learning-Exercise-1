@@ -11,40 +11,40 @@ Key Concepts:
 ----------
 Prerequisites
 -----------
-* <img src="https://www.gnu.org/software/octave/images//logo.png" width="25" height="25" /> GNU Octave 4.0.0+
+<img src="https://www.gnu.org/software/octave/images//logo.png" width="25" height="25" /> GNU Octave 4.0.0+
 
-* <img src="http://itprocurement.unl.edu/software_product_images/matlablogo.jpg" width="200"/>
+<img src="http://itprocurement.unl.edu/software_product_images/matlablogo.jpg" width="200"/>
 
 ----------
 Files Included In This Exercise
 -------------
 
 #### Drivers (Main Files)
-<i class="icon-file"></i> ex1.m
-<i class="icon-file"></i> ex1_multi.m
-<i class="icon-file"></i> submit.m
+* ex1.m
+* ex1_multi.m
+* submit.m
 
 #### Datasets
-<i class="icon-file"></i> ex1data1.txt
-<i class="icon-file"></i> ex1data2.txt
+* ex1data1.txt
+* ex1data2.txt
 
 #### Basic
-<i class="icon-file"></i> warmUpExercise.m
-<i class="icon-file"></i> plotData.m
+* warmUpExercise.m
+* plotData.m
 
 #### Cost Functions
-<i class="icon-file"></i> computeCost.m
-<i class="icon-file"></i> computeCostMulti.m
+* computeCost.m
+* computeCostMulti.m
 
 #### Feature Normalization
-<i class="icon-file"></i> featureNormalize.m
+* featureNormalize.m
 
 #### Gradient Descent
-<i class="icon-file"></i> gradientDescent.m
-<i class="icon-file"></i> gradientDescentMulti.m
+* gradientDescent.m
+* gradientDescentMulti.m
 
 #### Normal Equations
-<i class="icon-file"></i> normalEqn.m
+* normalEqn.m
 
 ----------
 Execution
